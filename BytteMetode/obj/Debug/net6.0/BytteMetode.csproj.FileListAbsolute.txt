@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\BytteMetode\BytteMetode\bin\Debug\net6.0\BytteMetode.exe
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\BytteMetode\BytteMetode\bin\Debug\net6.0\BytteMetode.deps.json
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\BytteMetode\BytteMetode\bin\Debug\net6.0\BytteMetode.runtimeconfig.json
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\BytteMetode\BytteMetode\bin\Debug\net6.0\BytteMetode.dll
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\BytteMetode\BytteMetode\bin\Debug\net6.0\BytteMetode.pdb
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\BytteMetode\BytteMetode\obj\Debug\net6.0\BytteMetode.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\BytteMetode\BytteMetode\obj\Debug\net6.0\BytteMetode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\BytteMetode\BytteMetode\obj\Debug\net6.0\BytteMetode.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\BytteMetode\BytteMetode\obj\Debug\net6.0\BytteMetode.AssemblyInfo.cs
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\BytteMetode\BytteMetode\obj\Debug\net6.0\BytteMetode.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\BytteMetode\BytteMetode\obj\Debug\net6.0\BytteMetode.dll
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\BytteMetode\BytteMetode\obj\Debug\net6.0\refint\BytteMetode.dll
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\BytteMetode\BytteMetode\obj\Debug\net6.0\BytteMetode.pdb
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\BytteMetode\BytteMetode\obj\Debug\net6.0\BytteMetode.genruntimeconfig.cache
+C:\Users\david\OneDrive - TECHCOLLEGE\source\repos\BytteMetode\BytteMetode\obj\Debug\net6.0\ref\BytteMetode.dll
